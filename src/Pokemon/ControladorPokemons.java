@@ -11,6 +11,10 @@ import java.util.Scanner;
 /**
  * Created by 46465442z on 12/10/15.
  */
+
+    // Para generar las clases abrimos un terminal y nos colocamos en carpeta donde se encuentra el ".xsd" mediante el comando cd
+    // Después ejecutamos el siguiente comando (sin las comillas): "xjc nombreDeTuXsd.xsd"
+
 public class ControladorPokemons{
 
     private static String ruta = "/home/sergi/IdeaProjects/BindingJAXB/src/Pokemon/pokemons.xml";
